@@ -37,3 +37,6 @@
 
 ## CashShuffle
 + https://research.kudelskisecurity.com/2019/03/27/audit-of-cashshuffle/
+
+## TODOS
++ https://github.com/trailofbits/publications/tree/master/reviews
